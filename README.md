@@ -1,4 +1,4 @@
-# Revature-Traning-Projects
+# Revature Traning Projects #1
 
  ## **Project Title : Automatic Exam Seating Arrangement**
 This is my foundational project on my revature training.
