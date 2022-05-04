@@ -26,7 +26,7 @@ This gives you the output only in console.
 -- MySQL Work Bench
 
 When executed it begins with main package and calls the modules available in the loginFiles, then the process moves to all different types of modules according to the user input the console. The redirectFiles and reusableDataFunctions are often called to implement any same method repeatedly and also for recurrsive call.
-Implemented OOP concepts and dynamic updation to the query for code reusablity and avoid error if any name need to be modified in future.
+Implemented OOP concepts and dynamic updation to the querries for code reusablity and avoid error if any name need to be modified in future.
 
 ### Functionalities : ( Access will differ acccording to the login )
 - Automatic Seating Arrangement (requires no. of available rooms, room numbers, benches in each room as a user input) **--Primary**
