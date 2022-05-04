@@ -5,7 +5,7 @@
 
 This gives you the output only in console.
 
-- This project consist with two types of login functionality (Admin and Student) which has almost 15 types of query implementation of 20 variations function call to access the querry.
+- This project consist with two types of login functionality (Admin and Student) which has 15 types of query implementation with 20 variations of function call to access the querry.
 
 - Total of 9 modules within 7 pakages contains 1100+ lines of code.
 
