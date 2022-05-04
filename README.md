@@ -5,11 +5,31 @@
 
 This gives you the output only in console.
 
-- This project consist with two types of login functionality (Admin and Student) which has almost 20 types of query to implemention.
+- This project consist with two types of login functionality (Admin and Student) which has almost 15 types of query implementation of 20 variations function call to access the querry.
 
 - Total of 9 modules within 7 pakages contains 1100+ lines of code.
 
+### Technologies used :
+-- Java  -- SQL -- RDBMS -- Maven -- JUnit
+
 - **in MySQL server :**
-Required databases (Student, LoginData)
-Required Tables in Student (Studentdata, StudentSeating)
-Required Tables in Student (AdminLogin, StudentLogin)
+-- Required databases (Student, LoginData)
+-- Required Tables in Student (Studentdata, StudentSeating)
+-- Required Tables in LoginData (AdminLogin, StudentLogin)
+
+- **Packages :** ( has overall 9 modules )
+-- main -- loginFiles -- adminFiles -- studentFiles -- redirectFiles -- reusableDataFunctions
+
+### Tools used :
+-- IntelliJ ( with Amazon Corretto 11 JDK, Maven Dependencies [ MySQL connector, JUnit ] )
+-- MySQL Server
+-- MySQL Work Bench
+
+When executed it begins with main package and calls the modules available in the loginFiles, then the process moves to all different types of modules according to the user input the console. The redirectFiles and reusableDataFunctions are often called to implement any same method repeatedly and also for recurrsive call.
+
+### Functionalities : ( Access will differ acccording to the login )
+- Automatic Seating Arrangement (requires no. of available rooms, room numbers, benches in each room as a user input) **--Primary**
+- C.R.U.D operations ( for all possible areas )
+- Create new login ID
+- View table
+- View login activities
