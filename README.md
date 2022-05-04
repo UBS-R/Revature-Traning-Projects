@@ -9,7 +9,7 @@ This gives you the output only in console.
 
 - Total of 9 modules within 7 pakages contains 1100+ lines of code.
 
-- **in MySQL server** :
+- **in MySQL server :**
 Required databases (Student, LoginData)
 Required Tables in Student (Studentdata, StudentSeating)
 Required Tables in Student (AdminLogin, StudentLogin)
