@@ -1,6 +1,6 @@
 # Revature-Traning-Projects
 
-**Project Title : Automatic Exam Seating Arrangement**
+ ## **Project Title : Automatic Exam Seating Arrangement**
 This is my foundational project on my revature training.
 
 This gives you the output only in console.
